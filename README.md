@@ -4,7 +4,7 @@
 //LIBRARY AND INFORMATION SCIENCE
 //LAB 1
 //TASK 1.2   
-//Helloo.java
+//Hello.java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
