@@ -1,3 +1,14 @@
-# COS-202C-LAB-WORK-
-It my repository of assignment 
+# COS-202C-LAB-WORK
+//EDU/LIS/24/018
+//NUHU PRAISE  INYAMA
+//LIBRARY AND INFORMATION SCIENCE
+//LAB 1
+//TASK 1.2   
+//Helloo.java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
 
